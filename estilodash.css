@@ -1,0 +1,109 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Nunito', sans-serif;
+}
+h2{
+    color: white;
+}
+.cabecera{
+    display: flex;
+    width: 100vw;
+    height: 10vh;
+    background-color: #2874A6;
+}
+.nombre{
+    display: grid;
+    place-items: center;
+    
+    width: 20vw;
+    height: 10vh;
+    background-color: #2874A6;
+}
+.opciones{
+    
+    width: 20vw;
+    height: 100vh;
+    background-color: #2E4053;
+    overflow: scroll;
+}
+.opcion{
+    width: 60px;
+    height: 65px;
+    
+}
+.menu{
+    display: grid;
+    place-items: center;
+    border-style: solid;
+    border-color: black;
+    width: 19.5vw;
+    height: 5rem;
+}
+.almacen{
+    display: grid;
+    place-items: center;
+    border-style: solid;
+    border-color: black;
+    width: 19.5vw;
+    height: 5rem;
+}
+.compras{
+    display: grid;
+    place-items: center;
+    border-style: solid;
+    border-color: black;
+    width: 19.5vw;
+    height: 5rem;
+}
+.cajachica{
+    display: grid;
+    place-items: center;
+    border-style: solid;
+    border-color: black;
+    width: 19.5vw;
+    height: 5rem;
+}
+.cuentas{
+    display: grid;
+    place-items: center;
+    border-style: solid;
+    border-color: black;
+    width: 19.5vw;
+    height: 5rem;
+}
+.ventas{
+    display: grid;
+    place-items: center;
+    border-style: solid;
+    border-color: black;
+    width: 19.5vw;
+    height: 5rem;
+}
+.personal{
+    display: grid;
+    place-items: center;
+    border-style: solid;
+    border-color: black;
+    width: 19.5vw;
+    height: 5rem;
+}
+.configuracion{
+    display: grid;
+    place-items: center;
+    border-style: solid;
+    border-color: black;
+    width: 19.5vw;
+    height: 5rem;
+}
+.consulta{
+    display: grid;
+    place-items: center;
+    border-style: solid;
+    border-color: black;
+    width: 19.5vw;
+    height: 5rem;
+}
+p{
+    color: white;
+}
